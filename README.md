@@ -54,4 +54,11 @@ Project Organization
 
 --------
 
+The data for this project was extracted from: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
+
+Files used are under https://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/
+
+* breast-cancer-wisconsin.data
+* breast-cancer-wisconsin.names
+
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
